@@ -4,7 +4,7 @@
 
 #### 矩阵加法
 
-![image-20240706205525964](C:\Users\19146\AppData\Roaming\Typora\typora-user-images\image-20240706205525964.png)
+![image-20240706205525964]([90c16fd3189517e8472b04b863de31aa294640162.png@1052w_!web-dynamic.avif (1052×805) (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/90c16fd3189517e8472b04b863de31aa294640162.png@1052w_!web-dynamic.avif))
 
 #### 矩阵减法
 
