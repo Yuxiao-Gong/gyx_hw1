@@ -8,20 +8,20 @@
 
 #### 矩阵减法
 
-![-](C:\Program HOMEWORK\result\-.png)
+![-]([Edge Image Viewer (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/120a5efc7b677b913b127f3d07f9d784294640162.png@1052w_!web-dynamic.avif))
 
 #### 矩阵乘法
 
-![image-20240706210705792](C:\Users\19146\AppData\Roaming\Typora\typora-user-images\image-20240706210705792.png)
+![image-20240706210705792]([Edge Image Viewer (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/120a5efc7b677b913b127f3d07f9d784294640162.png@1052w_!web-dynamic.avif))
 
 #### 矩阵放缩
 
-![image-20240706211246553](C:\Users\19146\AppData\Roaming\Typora\typora-user-images\image-20240706211246553.png)
+![image-20240706211246553]([Edge Image Viewer (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/f9ef147f19969fccad1a00ce9cdac408294640162.png@1052w_!web-dynamic.avif))
 
 #### 矩阵转置
 
-![image-20240706211326183](C:\Users\19146\AppData\Roaming\Typora\typora-user-images\image-20240706211326183.png)
+![image-20240706211326183]([Edge Image Viewer (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/c0f56bd4f9d844fd35d44b03e46d1e5c294640162.png@1052w_!web-dynamic.avif))
 
 #### 矩阵求迹
 
-![image-20240706211549866](C:\Users\19146\AppData\Roaming\Typora\typora-user-images\image-20240706211549866.png)
+![image-20240706211549866]([Edge Image Viewer (hdslb.com)](https://i0.hdslb.com/bfs/new_dyn/2714b42b05cc23af12e4fd08cbca7c82294640162.png@1052w_!web-dynamic.avif))
