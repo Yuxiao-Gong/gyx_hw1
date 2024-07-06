@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Program HOMEWORK/gyx_hw1/build",
+  "command": "C:\\VScode\\C__PAR~1\\C__~1\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\algebra.c.obj -c \"C:\\Program HOMEWORK\\gyx_hw1\\src\\algebra.c\"",
+  "file": "C:/Program HOMEWORK/gyx_hw1/src/algebra.c",
+  "output": "CMakeFiles/main.dir/src/algebra.c.obj"
+},
+{
+  "directory": "C:/Program HOMEWORK/gyx_hw1/build",
+  "command": "C:\\VScode\\C__PAR~1\\C__~1\\Dev-Cpp\\MinGW64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c \"C:\\Program HOMEWORK\\gyx_hw1\\src\\main.c\"",
+  "file": "C:/Program HOMEWORK/gyx_hw1/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]

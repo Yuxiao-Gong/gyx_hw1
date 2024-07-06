@@ -17,4 +17,5 @@
             "priority": 4
         }
     ]
+    "cmake.generator": "MinGW Makefiles"
 }
